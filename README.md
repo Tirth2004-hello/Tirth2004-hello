@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tirth2004-hello
 - 👀 I’m interested in coding such like web development , C programming 
-- 🌱 I’m currently learning in information technelogy.
+- 🌱 I’m currently learning in information technelogy in parul university.
 - 📫 How to reach me ...
 
 <!---
